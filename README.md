@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Mahale</h1>
 <h3 align="center">A full stack Web developer</h3>
-<img height="400px" width="100%"  src="https://media-exp1.licdn.com/dms/image/C4D16AQFDUsBYLQRtRg/profile-displaybackgroundimage-shrink_350_1400/0/1656051157737?e=1669248000&v=beta&t=tTA28EQJZA23h2lDwz08sDbBqVrAuZx_TJV6rE5ZiwM" alt="image"/>
+<img height="300px" width="100%"  src="https://media-exp1.licdn.com/dms/image/C4D16AQFDUsBYLQRtRg/profile-displaybackgroundimage-shrink_350_1400/0/1656051157737?e=1669248000&v=beta&t=tTA28EQJZA23h2lDwz08sDbBqVrAuZx_TJV6rE5ZiwM" alt="image"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalmahale11&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmahale11" /> </p>
-<h1>About Me</h1>
 <h3>A rigorous, task-driven professional with substantial
 seeking growth in web development, Data structure,
 and Designing of web page. Adept at leveraging
