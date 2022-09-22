@@ -16,7 +16,7 @@ organization levels</h3>
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **MERN Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://vishalmahale11.github.io/](https://vishalmahale11.github.io/)
 
