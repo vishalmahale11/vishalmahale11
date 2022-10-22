@@ -35,8 +35,8 @@ organization levels</h3>
 <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="vishalmahel11"/>
 
 <h3>GitHub's Stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalmahale11&show_icons=true&locale=en&layout=compact" alt="vishalmahale11" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalmahale11&show_icons=true&locale=en&layout=compact" alt="vishalmahale11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalmahale11&show_icons=true&locale=en" alt="vishalmahale11" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalmahale11&show_icons=true&locale=en" alt="vishalmahale11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmahale11&" alt="vishalmahale11" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmahale11&" alt="vishalmahale11" /></p>
