@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Mahale</h1>
 <h3 align="center">A full stack Web developer</h3>
-<img height="300px" width="100%"  src="https://github.com/cumsoft/cumsoft/raw/5f1a5d2822deb31df747679a491ef301a5753116/cumsoftofficesuiteVRWIN11.png" alt="image"/>
+<img height="300px" width="100%"  src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" alt="image"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalmahale11&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmahale11" /> </p>
 <h3>A rigorous, task-driven professional with substantial
