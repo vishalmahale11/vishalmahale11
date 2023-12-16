@@ -16,11 +16,9 @@ organization levels</h3>
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **MERN Full Stack Web Development**
-
 - 👨‍💻 All of my projects are available at [https://vishalmahale11.github.io/](https://vishalmahale11.github.io/)
 
-- 💬 Ask me about **React, JavaScript, Redux, HTML, CSS, NodeJS, Express, MongoDB**
+- 💬 Ask me about **React, JavaScript, Redux, Typescript, HTML5&CSS3, Scss, MaterialUI, TailwindCss, ShadcnUI, NodeJS, Express, MongoDB**
 
 - 📫 How to reach me **vishalmahale974@gmail.com**
 
